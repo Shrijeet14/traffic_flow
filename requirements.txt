@@ -6,4 +6,3 @@ ultralytics
 PyOpenGL
 PyQt5
 pyqt5-plugins
-xorg-libraries
