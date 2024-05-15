@@ -4,6 +4,6 @@ numpy
 plotly
 ultralytics
 PyOpenGL
-PyQt5==5.15.4
-pyqt5-plugins==5.15.4.2.3
+PyQt5
+pyqt5-plugins
 
