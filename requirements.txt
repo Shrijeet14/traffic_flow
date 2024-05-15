@@ -1,0 +1,5 @@
+streamlit==1.0.0
+opencv-python==4.5.4.60
+numpy==1.21.0
+plotly==5.3.1
+ultralytics==0.0.4
